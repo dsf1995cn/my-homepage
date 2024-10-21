@@ -1,0 +1,20 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/services
+
+- Main:
+    - Homepage:
+        icon: https://cdn.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/homepage.png
+        ping: https://onehat.cn
+        href: https://onehat.cn
+        description: https://onehat.cn
+    - Blog:
+        icon: https://cdn.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/blog.png
+        ping: https://blog.onehat.cn
+        href: https://blog.onehat.cn
+        description: https://blog.onehat.cn
+    - Note:
+        icon: https://cdn.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/note.png
+        ping: https://note.onehat.cn
+        href: https://note.onehat.cn
+        description: https://note.onehat.cn

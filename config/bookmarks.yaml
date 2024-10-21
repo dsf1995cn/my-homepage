@@ -1,0 +1,28 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/bookmarks
+
+- Developer:
+    - Github:
+        - abbr: G
+          href: https://github.com/
+    - YouTrack:
+        - abbr: Y
+          href: https://onehat.youtrack.cloud/
+    - Tapd:
+        - abbr: T
+          href: https://www.tapd.cn/my_dashboard
+
+- Social:
+    - B站:
+        - abbr: B
+          href: https://www.bilibili.com/
+    - 芯域:
+        - abbr: C
+          href: https://www.chiphell.com/forum-146-1.html
+    - V站:
+        - abbr: V
+          href: https://www.v2ex.com/
+    - 知乎:
+        - abbr: Z
+          href: https://www.zhihu.com/
