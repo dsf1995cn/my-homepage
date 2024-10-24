@@ -8,7 +8,7 @@ providers:
   
 language: zh-CN
 title: 壹帽主页
-favicon: https://blog.onehat.cn/favicon.ico
+favicon: https://gcore.jsdelivr.net/gh/dsf1995cn/PicHub@main/favicon/favicon_homepage.ico
 headerStyle: underlined # default style
 
 background:
