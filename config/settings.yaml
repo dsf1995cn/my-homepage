@@ -28,8 +28,8 @@ quicklaunch:
 #showStats: true
 statusStyle: "dot"
 layout:
-  Main:
+  Site:
     style: row
     columns: 7
     useEqualHeights: true
-    header: false
+    header: true
