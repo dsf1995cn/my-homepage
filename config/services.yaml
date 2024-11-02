@@ -2,19 +2,19 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/services
 
-- Main:
+- Site:
     - Homepage:
         icon: https://cdn.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/homepage.png
         #ping: https://onehat.cn
         href: https://onehat.cn
-        description: https://onehat.cn
+        description: 托管于Vercel
     - Blog:
         icon: https://cdn.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/hexo.png
         #ping: https://blog.onehat.cn
         href: https://blog.onehat.cn
-        description: https://blog.onehat.cn
+        description: 托管于Github Pages
     - Note:
         icon: https://cdn.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/note.png
         #ping: https://note.onehat.cn
         href: https://note.onehat.cn
-        description: https://note.onehat.cn
+        description: 托管于Gitlab Pages
