@@ -27,8 +27,15 @@ quicklaunch:
   
 #showStats: true
 statusStyle: "dot"
+disableCollapse: true
 layout:
-  Site:
+  Sites:
+    style: row
+    columns: 7
+    useEqualHeights: true
+    header: true
+
+  Tools:
     style: row
     columns: 7
     useEqualHeights: true

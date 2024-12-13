@@ -2,19 +2,37 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/services
 
-- Site:
+- Sites:
     - Homepage:
         icon: https://cdn.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/homepage.png
-        #ping: https://onehat.cn
-        href: https://onehat.cn
-        description: 托管于Vercel
+        ping: https://www.onehat.cn
+        href: https://www.onehat.cn
+        description: 本站，托管于 Vercel
     - Blog:
         icon: https://cdn.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/hexo.png
-        #ping: https://blog.onehat.cn
+        ping: https://blog.onehat.cn
         href: https://blog.onehat.cn
-        description: 托管于Github Pages
+        description: 博客，托管于 Github Pages
     - Note:
         icon: https://cdn.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/note.png
-        #ping: https://note.onehat.cn
+        ping: https://note.onehat.cn
         href: https://note.onehat.cn
-        description: 托管于Gitlab Pages
+        description: 笔记，托管于 Gitlab Pages
+
+- Tools:
+    - IT-Tools:
+        icon: https://gcore.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/ittools.png
+        href: https://tools.onehat.cn
+        ping: https://tools.onehat.cn
+        description: IT 工具箱
+    - LinuxCommand:
+        icon: https://gcore.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/linux.png
+        href: https://cmd.onehat.cn
+        ping: https://cmd.onehat.cn
+        description: Linux 命令速查
+
+    - Reference:
+        icon: https://gcore.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/ref.png
+        href: https://ref.onehat.cn
+        ping: https://ref.onehat.cn
+        description: 引用速查

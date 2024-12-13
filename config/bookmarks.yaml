@@ -3,9 +3,9 @@
 # https://gethomepage.dev/configs/bookmarks
 
 - Developer:
-    - Github:
-        - abbr: G
-          href: https://github.com/
+    # - Github:
+    #     - abbr: G
+    #       href: https://github.com/
     - YouTrack:
         - abbr: Y
           href: https://onehat.youtrack.cloud/
