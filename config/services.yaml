@@ -17,7 +17,7 @@
         icon: https://cdn.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/note.png
         #ping: https://note.onehat.cn
         href: https://note.onehat.cn
-        description: 笔记，托管于 Gitlab Pages
+        description: 笔记，托管于 Netlify
 
 - Tools:
     - IT-Tools:
