@@ -9,7 +9,7 @@
         href: https://www.onehat.cn
         description: 本站，托管于 Vercel
     - Blog:
-        icon: https://cdn.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/hexo.png
+        icon: https://cdn.jsdelivr.net/gh/dsf1995cn/my-dashboard-icons/main/onehat.png
         #ping: https://blog.onehat.cn
         href: https://blog.onehat.cn
         description: 博客，托管于 Github Pages
